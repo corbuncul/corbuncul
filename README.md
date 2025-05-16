@@ -1,5 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Ivan. 
+Python backend developer
 
+My tech stack:
+
+Python, Flask, FastAPI, Django, PostgreSQL, SQLite, SQLAlchemy,
+Docker, asyncio, Redis, REST API, CI/CD, Nginx, unittest, pytest
+My contacts:
+
+- Telegram [@Ivengo2015](https://t.me/Ivengo2015)
 <!--
 **corbuncul/corbuncul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
